@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: parts-of-speech tagging
+description: POS tagging using hidden markov models
 img: assets/img/1.jpg
 importance: 3
 category: fun
