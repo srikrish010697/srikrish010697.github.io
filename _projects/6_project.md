@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Autocomplete 
+description: autocomplete using N-gram language model
 img:
 importance: 4
 category: fun
