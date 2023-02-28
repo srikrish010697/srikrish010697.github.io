@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Autocorrect
+description: Autocorrect using minimum edit distance 
 img:
 importance: 3
 category: fun
