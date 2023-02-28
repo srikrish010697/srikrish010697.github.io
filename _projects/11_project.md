@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sentiment analysis using neural networks 
+title: continuous-bag-of-words (CBOW)
 description: A word embeddings model created using continuous-bag-of-words (CBOW)
 img:
 importance: 6
