@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: GANs
+description: A graph-attention based GANs for time-series synthetic data generation
 img: assets/img/3.jpg
 importance: 2
 category: work
