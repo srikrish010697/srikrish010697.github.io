@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - srikrish010697
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - srikrish010697/GAT-GAN
+  - srikrish010697/Vital-signs-monitoring-and-arrhythmia-detection
+  - srikrish010697/Structural-health-monitoring-of-railway-tracks
+  - srikrish010697/Wireless-blood-pressure-monitoring-using-machine-learning
+ 
