@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Anomaly detection
-description: Multivariate spatio-temporal anomaly detection using graph attention networks
+title: GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network
+description:  We propose a Graph-Attention-based Generative Adversarial Network (GAT-GAN) that explicitly includes two graph-attention layers, one that learns temporal dependencies while the other captures spatial relationships. Unlike RNN-based GANs that struggle with modeling long sequences of data points, GAT-GAN generates long time-series data of high fidelity using an adversarially trained autoencoder architecture. Our empirical evaluations, using a variety of real-time-series datasets, show that our framework consistently outperforms state-of-the-art benchmarks based on Frechet Transformer distance (a proposed standardized metric) and Predictive score (A downstream forecasting task), that characterizes (Fidelity, Diversity) and predictive performance respectively.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: 2023
 ---
 
 Every project has a beautiful feature showcase page.
