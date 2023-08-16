@@ -1,9 +1,0 @@
----
-layout: post
-title: A vital signs monitoring system using milli-meter wave radar and machine learning
-date: 2020-07-01 12:00:00-0400
-description:  Proposed and implemented an efficient mm-Wave FMCW radar-based non-invasive and non-contact vital signs (heart rate and breathing rate) monitoring system using radar signal processing. Evaluations were performed to determine best orientation(front,back,left,right), distance of measurement (30,60,90,120,150cm), and effect of small movements on measurement performance. The variance of HR measurement obtained by radar was lower than a reference device (OMRON) by ~64%. Applied a simple ANN to classify the extracted phase signals from the radar to predict onset of arrhythmia with a test F1 score of ~92%. 
-categories: radar-signal-processing, machine-learning
-disqus_comments: false
-related_posts: false
----
