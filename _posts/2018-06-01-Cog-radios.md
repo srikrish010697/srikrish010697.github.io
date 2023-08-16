@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 title: Support Vector Machine based spectrum handoff scheme for seamless handover in Cognitive Radio Networks
 date: 2018-06-01 12:00:00-0400
